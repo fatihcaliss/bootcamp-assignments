@@ -1,4 +1,7 @@
-# leedcode fibonacci sorusu çözümü
+# leedcode fibonacci question
+
+#  https://leetcode.com/problems/fibonacci-number/
+
 n = int(input("enter a number: "))
 fibonacci = []
 
